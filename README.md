@@ -1,2 +1,2 @@
 # projects.github.io
-Summary of my projects
+Landing page and a map of my github projects
